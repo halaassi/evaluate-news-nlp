@@ -20,6 +20,15 @@ A brief description of what the project does and its purpose.
 
 2. Open your browser and navigate to `http://localhost:8000.`
 
+## Dependencies
 
+   - `axios`
+   -`cors`
+   - `dotenv`
+   - `express`
+   - `html-webpack-plugin`
+   - `node-fetch`
+   - `webpack-cli`
+  
 
 ذذذ
